@@ -10,26 +10,33 @@ I am a 2022 graduate and fresh Mechatronics Engineer passionate about software d
 Embedded System Development
 - Microcontroller programming
 - Real-time operating systems (RTOS)
+  
 Programming and Software
 - C, Python, MATLAB/Simulink
+  
 Software Development and Integration
 - Software development life cycle.
+  
 Communication Protocols
 - UART 
 - SPI
 - I2C
 - CAN
+  
 Control Systems
 - PID Control
 - PLC programming
+  
 Data Analysis
 - Excel
 - PowerBI
 - Google Sheets
+
 Manual testing
 - Can perform manual functional and usability testing of web applications
+  
 Test documentation
-- Can create test cases and checklists and know how and in which situations to use them effectively
+- Can create test cases and checklists, and I understand how and when to use them effectively.
 - Able to prepare comprehensive bug reports and provide detailed session reports
 
 ## 📖 Courses
