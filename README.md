@@ -1,21 +1,47 @@
-<h1 align="center">Hi 👋, I'm Omar Alaa Mohammed</h1>
-<h3 align="center">Diligent and passionate mechatronics graduate grinding towards Embedded Systems</h3>
 
-- 🌱 I’m currently learning **Mastering Embedded Systems**
+## 🚀 About Me
 
-- 📫 How to reach me **omaraka1999@gmail.com**
+I am a 2022 graduate and fresh Mechatronics Engineer passionate about software development and innovation. I have completed courses in embedded systems and software testing, and I possess great knowledge in C programming along with good skills in Python. I am eager to contribute to exciting projects and collaborate with others in the tech community. Let's build something amazing together!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/omar alaa mohammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar alaa mohammed" height="30" width="40" /></a>
-<a href="https://fb.com/amoor alaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amoor alaa" height="30" width="40" /></a>
-<a href="https://instagram.com/amooralaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amooralaa" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/omaraka1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="omaraka1999" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🛠 Skills
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omaralaamohammed&show_icons=true&locale=en&layout=compact" alt="omaralaamohammed" /></p>
+Embedded System Development
+- Microcontroller programming
+- Real-time operating systems (RTOS)
+Programming and Software
+- C, Python, MATLAB/Simulink
+Software Development and Integration
+- Software development life cycle.
+Communication Protocols
+- UART 
+- SPI
+- I2C
+- CAN
+Control Systems
+- PID Control
+- PLC programming
+Data Analysis
+- Excel
+- PowerBI
+- Google Sheets
+Manual testing
+- Can perform manual functional and usability testing of web applications
+Test documentation
+- Can create test cases and checklists and know how and in which situations to use them effectively
+- Able to prepare comprehensive bug reports and provide detailed session reports
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omaralaamohammed&show_icons=true&locale=en" alt="omaralaamohammed" /></p>
+## 📖 Courses
+
+Embedded Systems Diploma by [Eng.Sameh Afifi](https://www.linkedin.com/in/sameh-afifi-8389173a/)
+
+- Computer architecture and AVR micro-controller interfacing, covering various aspects such as GPIO, timers, external interrupts, ADC, DAC, PWM, EEPROM, Keypad, ADC, UART, SPI, and I2C
+- C programming, data structures, and linked lists
+- Fundamental understanding of automotive bus technology such as CAN and LIN
+- Embedded C programming, encompassing embedded systems and hardware tools
+- Project 1: Cooling system
+- Project 2: [Hotel Room Small Safe](https://github.com/OmarAlaaMohammed/Locker-System-ATmega32)
+- Project 3: Stop-Watch System
+
+
