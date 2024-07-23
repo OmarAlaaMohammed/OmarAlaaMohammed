@@ -51,4 +51,5 @@ Embedded Systems Diploma by [Eng.Sameh Afifi](https://www.linkedin.com/in/sameh-
 - Project 2: [Hotel Room Small Safe](https://github.com/OmarAlaaMohammed/Locker-System-ATmega32)
 - Project 3: Stop-Watch System
 
-
+Master C/Embedded C for Embedded System Learn-In-Depth course on Udemy
+Click [here for credential](https://www.udemy.com/certificate/UC-9bc59439-2933-45ac-b8ff-5ed423ec39fd/)
